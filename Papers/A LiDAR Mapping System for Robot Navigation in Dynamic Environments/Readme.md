@@ -6,7 +6,7 @@
 
 **期刊:** IEEE Transactions on Intelligent Vehicles
 
-**链接:** [文章链接]() 在线发表
+**链接:** [文章链接](https://ieeexplore.ieee.org/document/10298797) 在线发表
 
 **代码仓库:** [代码仓库链接]()
 
@@ -52,4 +52,7 @@
 
 ### 引用
 
-引用格式xxx
+Z. Zhou, X. Feng, S. Di and X. Zhou, "A LiDAR Mapping System for Robot Navigation in Dynamic Environments," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3328013.
+keywords: {Laser radar;Simultaneous localization and mapping;Point cloud compression;Navigation;Vehicle dynamics;Robots;Robot sensing systems;Mapping system;loop closure detection;navigation map;dynamic object removal;simultaneous localization and mapping (SLAM)},
+
+
